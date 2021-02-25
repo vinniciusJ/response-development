@@ -1,7 +1,10 @@
 main.img-container{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+
+    row-gap: 4rem;
 
     width: 100vw;
 }
